@@ -1,0 +1,25 @@
+# 忽略IDE自动生成的文件或目录
+.idea/
+.vscode/
+
+# 忽略Python编译生成的文件
+*.pyc
+
+# 忽略Java编译生成的文件
+*.class
+
+# 忽略构建输出目录
+build/
+target/
+
+# 忽略日志文件
+*.log
+
+# 忽略DS_Store文件（Mac系统）
+.DS_Store
+
+# 忽略Thumbs.db文件（Windows系统）
+Thumbs.db
+
+*.csv
+*.log
